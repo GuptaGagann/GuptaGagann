@@ -62,9 +62,3 @@ Here are some ideas to get you started:
 #### Have good knowledge of:
 
 C# | .NET | Java | Android | C++ | Python
-
-<br>
-<div align="center">
-  <a href="https://github.com/GuptaGagann">
-    <img src="https://github-readme-stats.vercel.app/api?username=GuptaGagann&count_private=truehide=[%22issues%22,%22contribs%22]&show_icons=true&title_colour=fff&bg_color=151515&text_color=9f9f9f&icon_color=79ff97" /></a>
-</div>
